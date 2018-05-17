@@ -1,0 +1,17 @@
+# Windows
+Thumbs.db*
+
+# Mac
+.DS_Store
+
+# Visual Studio
+*.aps
+*.suo
+bin/
+obj/
+.vs/
+
+*.user
+*.userprefs
+*.DotSettings*
+.idea/
